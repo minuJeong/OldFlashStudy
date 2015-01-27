@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<PartyData>
+
+	<Party>
+		<partyName>
+			robbers
+		</partyName>
+		
+		<mob>
+			<type>robber
+			</type>
+			<level>1</level>
+		</mob>		
+		<mob>
+			<type>robber
+			</type>
+			<level>2</level>
+		</mob>		
+		<mob>
+			<type>robber
+			</type>
+			<level>3</level>
+		</mob>
+		
+		<reward>
+			<gold>
+				10
+			</gold>
+			
+			<food>
+				<type>apple
+				</type>
+			</food>
+			
+			<weapon>
+				<type>dagger
+				</type>
+			</weapon>
+		</reward>
+	</Party>
+	
+	
+	
+
+	<Party>
+		<partyName>
+			merchant
+		</partyName>
+		
+		<mob>
+			<type>merchant
+			</type>
+			<level>1</level>
+		</mob>
+		
+		<reward>
+			<gold>
+				10
+			</gold>
+			
+			<food>
+				<type>apple
+				</type>
+			</food>
+			
+			<weapon>
+				<type>dagger
+				</type>
+			</weapon>
+		</reward>
+	</Party>
+	
+	
+	<Party>
+		<partyName>
+			mermaids
+		</partyName>
+		
+		<mob>
+			<type>mermaid
+			</type>
+			<level>1</level>
+		</mob>
+		
+		<mob>
+			<type>mermaid
+			</type>
+			<level>1</level>
+		</mob>
+		
+		<mob>
+			<type>mermaid
+			</type>
+			<level>1</level>
+		</mob>
+		
+		<reward>
+			<gold>
+				10
+			</gold>
+			
+			<food>
+				<type>apple
+				</type>
+			</food>
+			
+			<weapon>
+				<type>dagger
+				</type>
+			</weapon>
+		</reward>
+	</Party>
+
+
+
+
+</PartyData>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<LevelData>
+
+	<Node>
+		<type> kingdom </type>
+		<race> human </race>
+		
+		<party prob=10>
+			robbers
+		</party>		
+		<party prob=40>
+			merchant
+		</party>		
+		<party prob=20>
+			heroParty
+		</party>
+		
+	</Node>
+	
+	
+	<Node>
+		<type> river </type>
+		<race> Mermaid </race>
+		
+		<party prob=30>
+			mermaids
+		</party>
+		
+		<party prob=20>
+			robbers
+		</party>
+		
+	</Node>
+	
+</LevelData>

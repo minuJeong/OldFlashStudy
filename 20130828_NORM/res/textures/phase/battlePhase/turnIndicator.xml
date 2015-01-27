@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="turnIndicator.png">
+
+	<SubTexture name="sideArrow" 		x="0" 			y="0" 		width="256" 	height="256"/>
+	<SubTexture name="mobIndicator" 	x="256" 		y="0" 		width="128" 	height="128"/>
+
+</TextureAtlas>

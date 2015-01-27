@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<application xmlns="http://ns.adobe.com/air/application/4.0">
+    <id>com.minujeong.tester</id>
+    <versionNumber>1.0.0</versionNumber>
+    <versionLabel></versionLabel>
+    <filename>ex</filename>
+    <description></description>
+    <!-- To localize the description, use the following format for the description element.<description><text xml:lang="en">English App description goes here</text><text xml:lang="fr">French App description goes here</text><text xml:lang="ja">Japanese App description goes here</text></description>-->
+    <name>ex</name>
+    <!-- To localize the name, use the following format for the name element.<name><text xml:lang="en">English App name goes here</text><text xml:lang="fr">French App name goes here</text><text xml:lang="ja">Japanese App name goes here</text></name>-->
+    <copyright></copyright>
+    <initialWindow>
+        <content>ex.swf</content>
+        <systemChrome>standard</systemChrome>
+        <transparent>false</transparent>
+        <visible>true</visible>
+        <fullScreen>true</fullScreen>
+        <aspectRatio>portrait</aspectRatio>
+        <renderMode>direct</renderMode>
+        <autoOrients>true</autoOrients>
+    </initialWindow>
+    <icon></icon>
+    <customUpdateUI>false</customUpdateUI>
+    <allowBrowserInvocation>false</allowBrowserInvocation>
+    <android>
+        <manifestAdditions><![CDATA[<manifest>
+<uses-permission android:name="android.permission.WAKE_LOCK"/>
+</manifest>]]></manifestAdditions>
+    </android>
+    <supportedLanguages>ko</supportedLanguages>
+    <iPhone>
+        <InfoAdditions><![CDATA[<key>UIDeviceFamily</key><array><string>2</string></array>]]></InfoAdditions>
+        <requestedDisplayResolution>standard</requestedDisplayResolution>
+    </iPhone>
+</application>

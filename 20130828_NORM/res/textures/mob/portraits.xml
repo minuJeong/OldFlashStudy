@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="portraits.png">
+
+	<SubTexture name="testMob" 		x="0" 			y="0" 		width="128" 	height="128"/>
+	<SubTexture name="dragon" 		x="128" 		y="0" 		width="128" 	height="128"/>
+	<SubTexture name="goblin" 		x="256" 		y="0" 		width="128" 	height="128"/>
+	<SubTexture name="guard"	 	x="384" 		y="0" 		width="128" 	height="128"/>
+	<SubTexture name="elfPed" 		x="512" 		y="0" 		width="128" 	height="128"/>
+	<SubTexture name="dwarfWarrior" x="640" 		y="0" 		width="128" 	height="128"/>
+	<SubTexture name="fairy" 		x="768" 		y="0" 		width="128" 	height="128"/>
+	<SubTexture name="robber" 		x="896" 		y="0" 		width="128" 	height="128"/>
+	
+	<SubTexture name="merchant"		x="0" 			y="128"		width="128" 	height="128"/>
+	<SubTexture name="mermaid" 		x="128" 		y="128"		width="128" 	height="128"/>
+	<SubTexture name="fanatic" 		x="256" 		y="128"		width="128" 	height="128"/>
+	<SubTexture name="test" 		x="384" 		y="128"		width="128" 	height="128"/>
+	<SubTexture name="test" 		x="512" 		y="128"		width="128" 	height="128"/>
+	<SubTexture name="test" 		x="640" 		y="128"		width="128" 	height="128"/>
+	<SubTexture name="test" 		x="768" 		y="128"		width="128" 	height="128"/>
+	<SubTexture name="test" 		x="896" 		y="128"		width="128" 	height="128"/>
+	
+	
+	<SubTexture name="wolf"			x="0" 			y="256"		width="128" 	height="128"/>
+	<SubTexture name="test" 		x="128" 		y="256"		width="128" 	height="128"/>
+	<SubTexture name="test" 		x="256" 		y="256"		width="128" 	height="128"/>
+	<SubTexture name="test" 		x="384" 		y="256"		width="128" 	height="128"/>
+	<SubTexture name="test" 		x="512" 		y="256"		width="128" 	height="128"/>
+	<SubTexture name="test" 		x="640" 		y="256"		width="128" 	height="128"/>
+	<SubTexture name="test" 		x="768" 		y="256"		width="128" 	height="128"/>
+	<SubTexture name="test" 		x="896" 		y="256"		width="128" 	height="128"/>
+
+</TextureAtlas>
